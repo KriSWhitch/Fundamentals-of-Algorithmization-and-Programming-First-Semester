@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab4\lab_4\lab4\lab4.cpp(70,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab4\lab_4\lab4\lab4.cpp(146,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab4.vcxproj -> E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab4\lab_4\Debug\lab4.exe

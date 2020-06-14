@@ -1,0 +1,4 @@
+﻿  lab11.cpp
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab11\lab11\lab11.cpp(83,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab11\lab11\lab11.cpp(88,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab11.vcxproj -> E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab11\Debug\lab11.exe

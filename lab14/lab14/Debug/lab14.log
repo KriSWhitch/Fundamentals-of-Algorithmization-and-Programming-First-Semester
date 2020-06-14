@@ -1,0 +1,7 @@
+﻿  lab14.cpp
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab14\lab14\lab14.cpp(81,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab14\lab14\lab14.cpp(97,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab14\lab14\lab14.cpp(164,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab14\lab14\lab14.cpp(183,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab14\lab14\lab14.cpp(199,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab14.vcxproj -> E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab14\Debug\lab14.exe

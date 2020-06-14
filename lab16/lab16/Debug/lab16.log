@@ -1,0 +1,6 @@
+﻿  lab16.cpp
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab16\lab16\lab16.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab16\lab16\lab16.cpp(79,9): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab16\lab16\lab16.cpp(102,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab16\lab16\lab16.cpp(169,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab16.vcxproj -> E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab16\Debug\lab16.exe

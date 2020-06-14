@@ -1,0 +1,3 @@
+﻿  lab13.cpp
+E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab13\lab13\lab13.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab13.vcxproj -> E:\GitHub\Fundamentals-of-Algorithmization-and-Programming-First-Semester\lab13\Debug\lab13.exe
